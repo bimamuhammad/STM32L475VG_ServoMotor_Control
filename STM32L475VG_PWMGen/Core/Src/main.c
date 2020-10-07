@@ -103,30 +103,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-/*
-	 set_led(1000);
-	 HAL_Delay(500);//Delay
-	 set_led(2000);
-	 HAL_Delay(500);//Delay
-	 set_led(3000);
-	 HAL_Delay(500);//Delay
-	 set_led(4000);
-	 HAL_Delay(500);//Delay
-	 set_led(5000);
-	 HAL_Delay(500);//Delay
-	 set_led(6000);
-	 HAL_Delay(500);//Delay
-	 set_led(7000);
-	 HAL_Delay(500);//Delay
-	 set_led(8000);
-	 HAL_Delay(500); //Delay
-	 set_led(9000);
-	 HAL_Delay(500);//Delay
-	 set_led(10000);
-	 HAL_Delay(500);//Delay
-*/
-
-	 // HAL_Delay(1000);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
